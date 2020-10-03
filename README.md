@@ -1,7 +1,7 @@
 
 # ***Applying Machine Learning to NCAA March Madness***
 
-***Srinath Botsa | Herambeshwar Pendyala ***
+***Srinath Botsa | Herambeshwar Pendyala***
 
 ***course project-1 for cs795 - Practical Machine Learning | Yaohang Li***
 
